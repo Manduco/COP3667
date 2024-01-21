@@ -1,2 +1,2 @@
 # COP3667
-Assignments
+Assignment1 video: https://youtu.be/OG9X0uxaINA
